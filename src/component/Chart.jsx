@@ -1,4 +1,4 @@
-import React, { FC, useEffect } from "react";
+import React, { useEffect } from "react";
 
 import "@react-sigma/core/lib/react-sigma.min.css";
 import {Graph } from "graphology";
