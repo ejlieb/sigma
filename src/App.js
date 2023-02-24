@@ -4,6 +4,7 @@ import Chart from './component/Chart';
 function App() {
   return (
     <div className="App">
+      <span>gigi</span>
       <div className="sigma-container">
         <Chart/>
       </div>
