@@ -135,7 +135,7 @@
 
                         <configuration>
                             <environmentVariables>
-                                <PUBLIC_URL>43.201.5.8:80</PUBLIC_URL>
+                                <PUBLIC_URL>43.201.5.8:3000</PUBLIC_URL>
                                 <REACT_APP_ROUTER_BASE>/${project.artifactId}</REACT_APP_ROUTER_BASE>
                             </environmentVariables>
                         </configuration>
